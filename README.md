@@ -9,12 +9,18 @@ For the Python version you only need fhash.py.  If you want to compile for Windo
 
 `python.exe setup.py install py2exe`
 
+
+
 ##Usage
+
+
 
 ###Python
 *Note: Programmed with Python 2.7*
 
 `python fhash.py <filename>`
+
+
 
 
 ###Windows Compiled version
