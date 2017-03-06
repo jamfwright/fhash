@@ -28,4 +28,23 @@ For the Python version you only need fhash.py.  If you want to compile for Windo
 
 `fhash <filename>`
 
+**Sample Output:**
+
+```
+C:\Users\me\Downloads>fhash shodan.pdf
+
+fhash - version 1.0
+By James Wright
+
+
+
+File inspected: shodan.pdf
+
+MD5:     102206a269bceedb00c4d287c6b66689
+SHA1:    07036728ce58cda163682e3c78f7aa12cae80c79
+SHA256:  0aafcf347479f6c20b856b13df39c941a0f67fd52a0dc2a1bb5e087dc4c466b5
+SHA512:  0b1d3bab80e2b3d3870f3af70a73fd9772dba54f2ae93c995a32ade3939bed9cfb1914bcb4c078fa962d6e482758b0213d0ce93e90cb43b50917aa14cbed213a
+
+C:\Users\me\Downloads>
+```
 
