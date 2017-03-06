@@ -19,6 +19,7 @@ For the Python version you only need fhash.py.  If you want to compile for Windo
 
 ###Windows Compiled version
 *Assumes you have set PATH correctly*
+
 `fhash <filename>`
 
 
