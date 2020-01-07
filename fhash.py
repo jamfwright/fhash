@@ -32,7 +32,7 @@ def sha512(fname):
 
 print("\nfhash - version 1.0\nBy James Wright\n")
 
-if sys.argv < 2:
+if len(sys.argv) < 2:
     print("\nMissing filename!\n\nUsage:  fhash <filename>")
 
 
